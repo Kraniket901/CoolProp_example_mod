@@ -10,6 +10,8 @@
     
     <class 'str'>
 
+Aniket Kumar    
+
 ## Steps to build from source:
 Execute from project root directory:
 ```
